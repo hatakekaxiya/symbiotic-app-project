@@ -1,0 +1,4 @@
+export enum OPERATIONS {
+    DEPOSIT = "DEPOSIT",
+    WITHDRAW = "WITHDRAW",
+}
